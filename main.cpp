@@ -3,5 +3,5 @@
 
 int main(){
 	int s = sum(10);
-	printf("Sum = %d", s);
+	printf("Sum = %d\n", s);
 }
